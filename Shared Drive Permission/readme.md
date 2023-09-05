@@ -6,7 +6,7 @@
 3. Use the Add.A.User.Access.Permission.2.All.Teamdrives.bat script to add the user access permission to those teamdrives 
 
 
-Sample CSV table with first three columns:
+teamdrive-sample.csv CSV file with first three columns:
 ```
 User	id	name
 randomUser1@example.com	1234567890	Drive 1
